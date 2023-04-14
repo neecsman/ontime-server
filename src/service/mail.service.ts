@@ -32,7 +32,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 12px;">Здравствуйте! Вы зарегистрировались на сервисе FastPoints - служба доставки. Если вы не делали этого, просто проигнорируйте данное сообщение сообщение!</span></p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 12px;">Здравствуйте! Вы зарегистрировались на сервисе On Time - служба доставки. Если вы не делали этого, просто проигнорируйте данное сообщение сообщение!</span></p></div>
     
               </td>
             </tr>
@@ -78,7 +78,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда FastPoints!</p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда On Time!</p></div>
     
               </td>
             </tr>
@@ -121,7 +121,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 12px;">Здравствуйте! Вы запросили новый пароль для учетной записи FastPoints - служба доставки. Это временный пароль, изменить его можно в личном кабинете в разделе "профиль"</span></p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 12px;">Здравствуйте! Вы запросили новый пароль для учетной записи On Time - служба доставки. Это временный пароль, изменить его можно в личном кабинете в разделе "профиль"</span></p></div>
     
               </td>
             </tr>
@@ -165,7 +165,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда FastPoints!</p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда On Time!</p></div>
     
               </td>
             </tr>
@@ -202,7 +202,7 @@ class MailService {
             <tbody><tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 20px;">Регистрация на FastPoints!</span></p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 20px;">Регистрация на On Time!</span></p></div>
     
               </td>
             </tr>
@@ -210,7 +210,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 12px;">Здравствуйте! Вы сделали заказ на FastPoints - служба доставки. Это временный пароль, изменить его можно в личном кабинете в разделе "Настройки"!</span></p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="font-size: 12px;">Здравствуйте! Вы сделали заказ на On Time - служба доставки. Это временный пароль, изменить его можно в личном кабинете в разделе "Настройки"!</span></p></div>
     
               </td>
             </tr>
@@ -254,7 +254,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда FastPoints!</p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда On Time!</p></div>
     
               </td>
             </tr>
