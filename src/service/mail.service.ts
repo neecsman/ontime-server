@@ -16,7 +16,7 @@ class MailService {
     try {
       let transporter = nodemailer.createTransport(options);
       await transporter.sendMail({
-        from: `Fast Points ${process.env.SMTP_USER}`,
+        from: `On Time ${process.env.SMTP_USER}`,
         to: email,
         subject: "Активация аккаунта",
         text: "",
@@ -105,7 +105,7 @@ class MailService {
     try {
       let transporter = nodemailer.createTransport(options);
       await transporter.sendMail({
-        from: `Fast Points ${process.env.SMTP_USER}`,
+        from: `On Time ${process.env.SMTP_USER}`,
         to: email,
         subject: "Восстановление пароля",
         text: "",
@@ -194,7 +194,7 @@ class MailService {
       console.log("Отправка сообщения на почту с паролем из сервиса");
 
       await transporter.sendMail({
-        from: `Fast Points ${process.env.SMTP_USER}`,
+        from: `On Time ${process.env.SMTP_USER}`,
         to: email,
         subject: "Регистрация пользователя",
         text: "",
@@ -281,7 +281,7 @@ class MailService {
     try {
       let transporter = nodemailer.createTransport(options);
       await transporter.sendMail({
-        from: `Fast Points ${process.env.SMTP_USER}`,
+        from: `On Time ${process.env.SMTP_USER}`,
         to: "nikappleid@yandex.ru",
         subject: "Обратная связь",
         text: "",
@@ -361,7 +361,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="color: rgb(236, 240, 241);">С уважением, команда Fast Points!</span></p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;"><span style="color: rgb(236, 240, 241);">С уважением, команда On Time!</span></p></div>
     
               </td>
             </tr>
@@ -487,7 +487,7 @@ class MailService {
     try {
       let transporter = nodemailer.createTransport(options);
       await transporter.sendMail({
-        from: `Fast Points ${process.env.SMTP_USER}`,
+        from: `On Time ${process.env.SMTP_USER}`,
         to: "nikappleid@yandex.ru",
         subject: "Анкета кандидата",
         text: "",
@@ -566,7 +566,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда Fast Points!</p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда On Time!</p></div>
     
               </td>
             </tr>
@@ -600,9 +600,9 @@ class MailService {
     try {
       let transporter = nodemailer.createTransport(options);
       await transporter.sendMail({
-        from: `Fast Points ${process.env.SMTP_USER}`,
+        from: `On Time ${process.env.SMTP_USER}`,
         to: "nikappleid@yandex.ru",
-        subject: "Новый заказ Fast Points",
+        subject: "Новый заказ On Time",
         text: "",
         html: `
         <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;background-color:transparent;width:100%;">
@@ -691,7 +691,7 @@ class MailService {
             <tr>
               <td align="left" style="font-size:0px;padding:15px 15px 15px 15px;word-break:break-word;">
                 
-      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда Fast Points!</p></div>
+      <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:1.5;text-align:left;color:#000000;"><p style="font-size: 11px; font-family: Ubuntu, Helvetica, Arial;">С уважением, команда On Time!</p></div>
     
               </td>
             </tr>
